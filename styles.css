@@ -1,0 +1,41 @@
+/* Kurt Brown - Web 115 Final Project */
+
+body {
+    text-align: center;
+    color: white;
+    padding: 1em;
+    color: black;
+    background: linear-gradient(skyblue, lightyellow);
+}
+
+label {
+    font-size: large;
+}
+
+p {
+    font-size: large;
+}
+
+.headerClass {
+    font-family: 'Garamond', serif;
+    font-size: xx-large;
+}
+
+.headerClass2 {
+    font-family: 'Garamond', serif;
+    font-size: x-large;
+}
+
+.sectionHeaders {
+    font-family: 'Ysabeau', sans-serif;
+
+}
+
+.workExperienceHeadings {
+    font-family: 'Oswald', sans-serif;
+    font-size: larger;
+}
+
+#emailWarning {
+    color: red;
+}
